@@ -1,0 +1,392 @@
+## [🔙 my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter)
+| [**Week →**](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/373383893/week.md) | [**Month →**](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/373383893/month.md) | [**Year →**](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/373383893/year.md) |
+| ---- | ---- | ----- |
+### :octocat: [top-github-users](https://github.com/gayanvoice/top-github-users)
+![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/373383893/large/month.png)
+
+<details>
+	<summary>Click to expand table</summary>
+	<h2>:calendar: Month Page Views Table</h2>
+<table>
+	<tr>
+		<th>
+			Last Updated
+		</th>
+		<th>
+			Unique
+		</th>
+		<th>
+			Count
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/2/18</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/2/17</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+		<td>
+			<code>0</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/2/16</code>
+		</td>
+		<td>
+			<code>342</code>
+		</td>
+		<td>
+			<code>560</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/2/15</code>
+		</td>
+		<td>
+			<code>366</code>
+		</td>
+		<td>
+			<code>616</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/2/14</code>
+		</td>
+		<td>
+			<code>245</code>
+		</td>
+		<td>
+			<code>384</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/2/13</code>
+		</td>
+		<td>
+			<code>180</code>
+		</td>
+		<td>
+			<code>266</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/2/12</code>
+		</td>
+		<td>
+			<code>348</code>
+		</td>
+		<td>
+			<code>624</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/2/11</code>
+		</td>
+		<td>
+			<code>359</code>
+		</td>
+		<td>
+			<code>566</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/2/10</code>
+		</td>
+		<td>
+			<code>350</code>
+		</td>
+		<td>
+			<code>510</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/2/9</code>
+		</td>
+		<td>
+			<code>362</code>
+		</td>
+		<td>
+			<code>542</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/2/8</code>
+		</td>
+		<td>
+			<code>243</code>
+		</td>
+		<td>
+			<code>434</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/2/7</code>
+		</td>
+		<td>
+			<code>234</code>
+		</td>
+		<td>
+			<code>449</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/2/6</code>
+		</td>
+		<td>
+			<code>369</code>
+		</td>
+		<td>
+			<code>539</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/2/5</code>
+		</td>
+		<td>
+			<code>335</code>
+		</td>
+		<td>
+			<code>575</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/2/4</code>
+		</td>
+		<td>
+			<code>367</code>
+		</td>
+		<td>
+			<code>548</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/2/3</code>
+		</td>
+		<td>
+			<code>369</code>
+		</td>
+		<td>
+			<code>610</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/2/2</code>
+		</td>
+		<td>
+			<code>401</code>
+		</td>
+		<td>
+			<code>677</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/2/1</code>
+		</td>
+		<td>
+			<code>285</code>
+		</td>
+		<td>
+			<code>481</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/1/31</code>
+		</td>
+		<td>
+			<code>315</code>
+		</td>
+		<td>
+			<code>488</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/1/30</code>
+		</td>
+		<td>
+			<code>366</code>
+		</td>
+		<td>
+			<code>606</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/1/29</code>
+		</td>
+		<td>
+			<code>353</code>
+		</td>
+		<td>
+			<code>597</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/1/28</code>
+		</td>
+		<td>
+			<code>380</code>
+		</td>
+		<td>
+			<code>593</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/1/27</code>
+		</td>
+		<td>
+			<code>347</code>
+		</td>
+		<td>
+			<code>579</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/1/26</code>
+		</td>
+		<td>
+			<code>448</code>
+		</td>
+		<td>
+			<code>689</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/1/25</code>
+		</td>
+		<td>
+			<code>261</code>
+		</td>
+		<td>
+			<code>367</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/1/24</code>
+		</td>
+		<td>
+			<code>250</code>
+		</td>
+		<td>
+			<code>398</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/1/23</code>
+		</td>
+		<td>
+			<code>336</code>
+		</td>
+		<td>
+			<code>529</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/1/22</code>
+		</td>
+		<td>
+			<code>303</code>
+		</td>
+		<td>
+			<code>495</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/1/21</code>
+		</td>
+		<td>
+			<code>383</code>
+		</td>
+		<td>
+			<code>672</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/1/20</code>
+		</td>
+		<td>
+			<code>415</code>
+		</td>
+		<td>
+			<code>601</code>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<code>2026/1/19</code>
+		</td>
+		<td>
+			<code>366</code>
+		</td>
+		<td>
+			<code>580</code>
+		</td>
+	</tr>
+</table>
+
+</details>
+<small><i>Last updated on 2026/2/18 12:09 AM UTC</i></small>
+
+## ✂️Copy and 📋 Paste
+### SVG Badge
+[![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/373383893/week.md)
+```readme
+[![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/373383893/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/373383893/week.md)
+```
+### Header
+# top-github-users [<img alt="Image of my-profile-views-counter" src="https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/373383893/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/373383893/week.md)
+```readme
+# top-github-users [<img alt="Image of my-profile-views-counter" src="https://github.com/gayanvoice/my-profile-views-counter/blob/master/graph/373383893/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/373383893/week.md)
+```
+[**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
+## ⛔ DO NOT
+- Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
+- The app will automatically stop measuring insights until you revoke those commits.
+## 📦 Third party
+
+- [@octokit/rest](https://www.npmjs.com/package/@octokit/rest) - Send REST API requests to GitHub.
+- [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
+- [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+- [node-chart-exec](https://www.npmjs.com/package/node-chart-exec) - Generate graphs.
+## 📄 License
+- Powered by: [GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
+- Code: [MIT](./LICENSE) © [gayanvoice](https://github.com/gayanvoice/github-profile-views-counter)
+- Data in the `./cache` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)

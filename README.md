@@ -1,5 +1,13 @@
-# GitHub Insights Template
+## Hi there 👋
 
-Follow the isntructions given in [GitHub Insights](https://github.com/gayanvoice/github-insights) repository page. You can follow how this was deployed in [gayanvoice/insights](https://github.com/gayanvoice/insights).
+- 🔭 I’m currently working on making opensource software
+- 🌱 I’m currently learning how to use AI Agents
+- 👯 I’m looking to collaborate on anything
+- 🤔 I’m looking for help with product feedback
+- 💬 Ask me about agentic development
+- 📫 Reach me on LinkedIn
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: The last time I wrote something in C was around a decade ago
 
-This action is written by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow me on [GitHub](https://github.com/gayanvoice), [Medium](https://medium.com/@gayanvoice) and [Twitter](https://twitter.com/gayanvoice).
+### Total Views Badge
+[![Image of https://github.com/Siderskini/Siderskini](https://github.com/Siderskini/Siderskini/blob/master/svg/profile/badge.svg)](https://github.com/Siderskini/Siderskini)
