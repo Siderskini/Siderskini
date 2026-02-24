@@ -9,6 +9,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: The last time I wrote something in C was around a decade ago
 
+You can find my Portfolio [here](https://sidd-portfolio.westus2.cloudapp.azure.com/), and the source [here](https://github.com/Siderskini/Portfolio)
+
 ### Total Views Badge
 <!-- PROFILE_VIEWS_BADGE_START -->
 [![Image of https://github.com/Siderskini/Siderskini](https://github.com/Siderskini/Siderskini/blob/master/svg/profile/badge.svg)](https://github.com/Siderskini/Siderskini)
